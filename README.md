@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alexpana
+- 👀 I’m interested in performance optimizations and realtime rendering
+- 🌱 I’m currently learning x64 assembly and zig
